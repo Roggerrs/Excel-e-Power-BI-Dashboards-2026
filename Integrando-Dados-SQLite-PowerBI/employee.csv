@@ -1,0 +1,4 @@
+Fname,Minit,Lname,Ssn,Bdate,Address,Sex,Salary,Super_ssn,Dno
+John,B,Smith,123456789,1985-01-09,Rua A,M,5000.0,,1
+Maria,A,Souza,987654321,1990-03-15,Rua B,F,6000.0,123456789,2
+Carlos,C,Oliveira,456789123,1988-07-22,Rua C,M,4500.0,123456789,3
